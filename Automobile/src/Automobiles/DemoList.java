@@ -21,7 +21,7 @@ public class DemoList {
 		numbers.add(1000);
 		numbers.add(2000);
 		numbers.add(3000);
-		numbers.add(5000);
+	
 		System.out.println(numbers);
 		
 		
