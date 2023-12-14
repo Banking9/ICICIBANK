@@ -18,6 +18,7 @@ public class DemoList {
 		numbers.add(900);
 		numbers.add(400);
 		numbers.add(800);
+		numbers.add(1000);
 		System.out.println(numbers);
 		
 		
