@@ -20,6 +20,7 @@ public class DemoList {
 		numbers.add(800);
 		numbers.add(1000);
 		numbers.add(2000);
+		numbers.add(3000);
 		System.out.println(numbers);
 		
 		
